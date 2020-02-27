@@ -62,6 +62,7 @@ if __name__ == "__main__":
     main()
 
 # -----------------------------------------------------------	
+# Converts images to pdf
 # (C) 2020 Ercan Berber, Istanbul, Turkey	
 # Released under PIL Software License
 # -----------------------------------------------------------
