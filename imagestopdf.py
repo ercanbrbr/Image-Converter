@@ -61,8 +61,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# -----------------------------------------------------------
-# (C) 2020 Ercan Berber, Istanbul, Turkey
-# Released under GNU Public License (GPL)
-# -----------------------------------------------------------
