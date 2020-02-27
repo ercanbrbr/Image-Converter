@@ -19,3 +19,15 @@ A picture explanining how it works.
 Before | After
 ------------ | -------------
 ![example](https://i.imgur.com/E4clUf0.png) | ![RESULT](https://i.imgur.com/lvsfmqy.png)
+
+
+
+# Requirements 
+
+I am using python 3.7.4, I think you can use it with python 3.7.4 and higher.
+ 
+Pillow
+
+```
+pip install Pillow
+```
