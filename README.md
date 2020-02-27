@@ -20,7 +20,11 @@ Before | After
 ------------ | -------------
 ![example](https://i.imgur.com/E4clUf0.png) | ![RESULT](https://i.imgur.com/lvsfmqy.png)
 
+Program girdi çıktı
 
+Input | Output
+------------ | -------------
+![example](https://i.imgur.com/N3MJniC.png) | ![RESULT](https://i.imgur.com/QOBiOCx.png)
 
 # Requirements 
  
