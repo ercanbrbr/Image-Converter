@@ -3,10 +3,6 @@ The Python Imaging Library (PIL) is
     Copyright © 1997-2011 by Secret Labs AB
     Copyright © 1995-2011 by Fredrik Lundh
 
-Image to PDF is
-    
-    Copyright © 2020-2020 by Ercan Berber
-
 Like PIL, Image to PDF is licensed under the open source PIL Software License:
 
 Pillow is the friendly PIL fork. It is
