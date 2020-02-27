@@ -12,6 +12,10 @@ Resimleri bir klasörün içine atın. Klasörün sadece resim dosyası içermel
 O klasörü de bir kökün içine atın. Kökün içinde başka dosyalar olabilir, ve eğer pdf'e dönüştürülmesini istiyorsan başka bir dosya daha içerebilir.
 Kök klasörünün konumunu kopyalayın. Programı çalıştırıp uzantıyı yapıştırın. '\' işaretlerini '/' ile değiştirin. 
 
+A picture explanining how it works.
+
+Çalışma mantığını anlatan bir resim.
+
 Before | After
 ------------ | -------------
 ![example](https://i.imgur.com/E4clUf0.png) | ![RESULT](https://i.imgur.com/lvsfmqy.png)
