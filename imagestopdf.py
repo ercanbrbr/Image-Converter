@@ -8,11 +8,14 @@ def sorted_alphanumeric(data):
     alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
     return sorted(data, key=alphanum_key)
 
+# Gets location of a root from user and returns it.
 def dirInput():
     print("Copy paste the directory but change '\\' to '/' ")
     a=input("Directory..:")
     return a
 
+# @basepath; location from user
+# returns the location
 def lookforDir(basepath):
     liste=[]
     for entry in os.listdir(basepath):
@@ -20,11 +23,16 @@ def lookforDir(basepath):
             liste.append(entry)
     return liste
 
+# @basepath; location from user
+# @liste; list of a folders inside the root.
 def openDir(liste,basepath):
     for direc in liste:
         newpath=f"{basepath}/{direc}"
         scanfile(newpath,basepath,direc)
 
+# @newpath; basepath+folder name
+# @basepath; location from user
+# @direc; folder name
 def scanfile(newpath,basepath,direc):
     imglist=[]
     for entry in sorted_alphanumeric(os.listdir(newpath)):
@@ -35,10 +43,15 @@ def scanfile(newpath,basepath,direc):
             imglist.append(pdf)
     convertToPDF(imglist,basepath,direc)
 
+# @imglist; list of a image
+# @basepath; location from user
+# @direc; folder name
 def convertToPDF(imglist,basepath,direc):
     pdf=imglist[0]
     imglist.pop(0)
     pdf.save(r'{}/{}.pdf'.format(basepath,direc),save_all=True, append_images=imglist)
+    #saves the file as folder_name.pdf insede the root.
+
 
 def main():
     basepath=dirInput()
@@ -47,3 +60,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# -----------------------------------------------------------
+# (C) 2020 Ercan Berber, Istanbul, Turkey
+# Released under GNU Public License (GPL)
+# -----------------------------------------------------------
