@@ -15,6 +15,6 @@ Kök klasörünün konumunu kopyalayın. Programı çalıştırıp uzantıyı ya
 
 Example
 Örnek
-![example](https://imgur.com/E4clUf0)
+![example](https://i.imgur.com/E4clUf0.png)
 
-![RESULT](https://imgur.com/lvsfmqy)
+![RESULT](https://i.imgur.com/lvsfmqy.png)
