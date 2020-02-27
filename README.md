@@ -15,9 +15,3 @@ Kök klasörünün konumunu kopyalayın. Programı çalıştırıp uzantıyı ya
 Before | After
 ------------ | -------------
 ![example](https://i.imgur.com/E4clUf0.png) | ![RESULT](https://i.imgur.com/lvsfmqy.png)
-![example](https://i.imgur.com/E4clUf0.png) | ![RESULT](https://i.imgur.com/lvsfmqy.png)
-Example
-Örnek
-![example](https://i.imgur.com/E4clUf0.png)
-
-![RESULT](https://i.imgur.com/lvsfmqy.png)
