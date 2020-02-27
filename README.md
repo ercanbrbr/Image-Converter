@@ -23,8 +23,6 @@ Before | After
 
 
 # Requirements 
-
-I am using python 3.7.4, I think you can use it with python 3.7.4 and higher.
  
 Pillow
 
