@@ -1,6 +1,6 @@
 # Image-To-PDF
 
-I made this tool to convert manga files that I downloaded to pdf. You can use this tool to convert any image (jpg,jpeg,png) to pdf file. I didn't try other type of files but It supports tiff, bmp and gif according to the documetation from the library that I used.
+I made this tool to convert manga files that I downloaded to pdf. You can use this tool to convert any image (jpg,jpeg,png) to pdf file. I didn't try other type of files but It supports tiff, bmp and gif according to the documentation from the library that I used.
 
 Bu programı indirdiğim manga dosyalarını pdf'e çevirmek için yazdım. Herhangi bir resim dosyasını (jpg,jpeg,png) pdfe çevirmek için kullanabilirsiniz. Başka dosya türleri denemedim ama kullandığım kütüphanenin dokümentasyonuna göre tiff, bmp ve gif destekliyor. 
 
