@@ -54,7 +54,6 @@ def convertToPDF(imglist,basepath,direc):
     pdf.save(r'{}/{}.pdf'.format(basepath,direc),save_all=True, append_images=imglist)
     #saves the file as folder_name.pdf insede the root.
 
-
 def main():
     basepath=dirInput()
     liste=lookforDir(basepath)
@@ -62,7 +61,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 # -----------------------------------------------------------	
 # Converts images to pdf
