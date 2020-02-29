@@ -1,6 +1,8 @@
 import os
 from PIL import Image
 import re
+import time
+from tqdm import tqdm
 # I found this function in stackoverflow. It is a sorting algorithm. OS sorts files like this 1,10,...,2,20,...,3 etc.
 # This function solves that. Thanks to user user136036
 def sorted_alphanumeric(data):
@@ -26,7 +28,7 @@ def lookforDir(basepath):
 # @basepath; location from user
 # @liste; list of a folders inside the root.
 def openDir(liste,basepath):
-    for direc in liste:
+    for direc in tqdm(liste):
         newpath=f"{basepath}/{direc}"
         scanfile(newpath,basepath,direc)
 
@@ -65,5 +67,5 @@ if __name__ == "__main__":
 # -----------------------------------------------------------	
 # Converts images to pdf
 # (C) 2020 Ercan Berber, Istanbul, Turkey	
-# Released under PIL Software License
+# Released under MIT License
 # -----------------------------------------------------------
