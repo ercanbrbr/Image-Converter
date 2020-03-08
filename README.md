@@ -6,11 +6,11 @@ Bu programı indirdiğim manga dosyalarını pdf'e çevirmek için yazdım. Herh
 
 # How to Use
 
-Put the files in a folder. Folder should only contains image file. Put that folder in a root folder. Root folder can contain another files, and folder if you want that folder to be converted as well. Copy the location of the root folder. Run the tool and paste the location. Replace '\\' with '/'.
+Put the files in a folder. Folder should only contains image file. Put that folder in a root folder. Root folder can contain another files, and folder if you want that folder to be converted as well. Copy the location of the root folder. Run the tool and paste the location.
 
 Resimleri bir klasörün içine atın. Klasörün sadece resim dosyası içermeli. 
 O klasörü de bir kökün içine atın. Kökün içinde başka dosyalar olabilir, ve eğer pdf'e dönüştürülmesini istiyorsan başka bir dosya daha içerebilir.
-Kök klasörünün konumunu kopyalayın. Programı çalıştırıp uzantıyı yapıştırın. '\\' işaretlerini '/' ile değiştirin. 
+Kök klasörünün konumunu kopyalayın. Programı çalıştırıp uzantıyı yapıştırın.
 
 A picture explanining how it works.
 
