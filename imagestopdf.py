@@ -50,7 +50,7 @@ def scanfile(newpath,basepath,direc):
 def convertToPDF(imglist,basepath,direc):
     pdf=imglist[0]
     imglist.pop(0)
-    pdf.save(r'{}/{}.pdf'.format(basepath,direc),save_all=True, append_images=imglist)
+    pdf.save(r'{}/{}.pdf'.format(basepath,direc),quality=100,save_all=True, append_images=imglist)
     #saves the file as folder_name.pdf insede the root.
 
 def main():
