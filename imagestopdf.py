@@ -12,7 +12,6 @@ def sorted_alphanumeric(data):
 
 # Gets location of a root from user and returns it.
 def dirInput():
-    print("Copy paste the directory but change '\\' to '/' ")
     a=input("Directory..:")
     return a
 
