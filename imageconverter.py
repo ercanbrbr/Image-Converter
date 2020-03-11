@@ -59,7 +59,7 @@ if __name__ == "__main__":
     main()
         
 # -----------------------------------------------------------	
-# Converts images to pdf
+# Converts images to pdf or cbz
 # (C) 2020 Ercan Berber, Istanbul, Turkey	
 # Released under MIT License
 # -----------------------------------------------------------
