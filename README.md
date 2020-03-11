@@ -1,8 +1,8 @@
 # Image-Converter
 
-I made this tool to convert manga files that I downloaded to pdf/cbz. You can use this tool to convert any image (jpg,jpeg,png) to pdf/cbz file. I didn't try other type of files but It supports tiff, bmp and gif according to the documentation from the library that I used.
+I made this tool to convert manga files that I downloaded to pdf/cbz. You can use this tool to convert any image (jpg,jpeg,png) to pdf/cbz file. 
 
-Bu programı indirdiğim manga dosyalarını pdf/cbz'ye çevirmek için yazdım. Herhangi bir resim dosyasını (jpg,jpeg,png) pdf/cbz'ye çevirmek için kullanabilirsiniz. Başka dosya türleri denemedim ama kullandığım kütüphanenin dokümentasyonuna göre tiff, bmp ve gif destekliyor. 
+Bu programı indirdiğim mangaları pdf/cbz'ye çevirmek için yazdım. Herhangi bir resim dosyasını (jpg,jpeg,png) pdf/cbz'ye çevirmek için kullanabilirsiniz. 
 
 # How to Use
 
