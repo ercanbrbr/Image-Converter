@@ -1,3 +1,6 @@
+Convert images to PDF or CBZ.
+
+
 # Requirements 
  
 Pillow
